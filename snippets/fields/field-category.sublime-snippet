@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[<field
+	name="${1:field}"
+	type="category"
+	label="JCATEGORY"
+	description="${TM_FILENAME/(.*?)(\..+)/\U$1/}_FIELD_CATEGORY_DESC"
+	extension="com_${TM_COMPONENT/(.+)/\L\1/g}"
+	multiple="true"
+	size="10">
+	<option value="">JOPTION_ALL_CATEGORIES</option>
+</field>]]></content>
+	<tabTrigger>field-category</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>

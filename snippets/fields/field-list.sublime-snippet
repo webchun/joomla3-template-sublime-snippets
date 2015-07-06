@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[<field
+	name="${1:field}"
+	type="list"
+	class="inputbox"
+	label="${TM_FILENAME/(.*?)(\..+)/\U$1/}_FIELD_${1/(.+)/\U\1/g}_LABEL"
+	description="${TM_FILENAME/(.*?)(\..+)/\U$1/}_FIELD_${1/(.+)/\U\1/g}_DESC"
+	default="$2"
+	size="1"
+	filter="integer">
+</field>]]></content>
+	<tabTrigger>field-integer</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>

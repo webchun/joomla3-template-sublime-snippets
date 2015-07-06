@@ -1,0 +1,20 @@
+{
+	"schema_version": "1.2",
+	"packages": [
+		{
+			"name": "J! 3.x Template Snippets",
+			"description": "Sublime Text Snippets for Joomla! 3.x Template",
+			"author": "webchun <webchun@yahoo.com>",
+			"homepage": "https://github.com/webchun/joomla3-template-sublime-snippets",
+			"last_modified": "2015-06-07 14:52:52",
+			"platforms": {
+				"*": [
+					{
+						"version": "1.0",
+						"url": "https://nodeload.github.com/webchun/joomla3-template-sublime-snippets/zip/master"
+					}
+				]
+			}
+		}
+	]
+}

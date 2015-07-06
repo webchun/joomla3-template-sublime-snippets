@@ -1,0 +1,5 @@
+Thank you for installing Snippets for Joomla! 3.x Template Dev -- This is a Sublime Text package which includes a bunch of handy snippets for doing CMS Joomla! 3.x Template development.
+
+---------------------------------
+Follow me on Twitter: @webchun
+---------------------------------

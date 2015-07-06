@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[<field
+	name="${1:field}"
+	type="email"
+	class="inputbox"
+	label="${TM_FILENAME/(.*?)(\..+)/\U$1/}_FIELD_${1/(.+)/\U\1/g}_LABEL"
+	description="${TM_FILENAME/(.*?)(\..+)/\U$1/}_FIELD_${1/(.+)/\U\1/g}_DESC"
+	size="40"
+	validate="email" />]]></content>
+	<tabTrigger>field-email</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>

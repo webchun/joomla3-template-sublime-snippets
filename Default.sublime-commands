@@ -1,0 +1,9 @@
+[
+	{
+		"caption": "Preferences: J! 3.x Template Dev Snippets Preferences – Default",
+		"command": "open_file",
+		"args": {
+			"file": "${packages}/J! 3.x Template Dev Snippets/Default.tmPreferences"
+		}
+	}
+]
