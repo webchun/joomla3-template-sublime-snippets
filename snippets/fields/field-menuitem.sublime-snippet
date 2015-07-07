@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[<field
+		name="${1:field}"
+		type="menuitem"
+		default="45"
+		label="Select a menu item"
+		description="Select a menu item" />]]></content>
+	<tabTrigger>field-menuitem</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>

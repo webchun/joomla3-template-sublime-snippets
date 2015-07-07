@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<field
+		name="${1:field}"
+		type="chromestyle"
+		label="COM_MODULES_FIELD_MODULE_STYLE_LABEL"]
+		description="COM_MODULES_FIELD_MODULE_STYLE_DESC" />]]></content>
+	<tabTrigger>field-chrome</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>

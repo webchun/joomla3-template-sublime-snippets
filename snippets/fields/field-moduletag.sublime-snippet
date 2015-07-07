@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[<field
+		name="${1:field}"
+		type="moduletag"
+        label="COM_MODULES_FIELD_MODULE_TAG_LABEL"
+        description="COM_MODULES_FIELD_MODULE_TAG_DESC"
+        default="div" />]]></content>
+	<tabTrigger>field-moduletag</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>

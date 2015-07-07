@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<field
+		name="${1:field}"
+		type="editors"
+		default="none"
+		label="Select an editor" />]]></content>
+	<tabTrigger>field-select-editor</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[<field
+		name="${1:field}"
+		type="plugins"
+		folder="captcha"
+        label="COM_CONTACT_FIELD_CAPTCHA_LABEL"
+        description="COM_CONTACT_FIELD_CAPTCHA_DESC"
+        default=""
+        filter="cmd" >
+        <option value="">JOPTION_USE_DEFAULT</option>
+        <option value="0">JOPTION_DO_NOT_USE</option></field>]]></content>
+	<tabTrigger>field-calendar</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>

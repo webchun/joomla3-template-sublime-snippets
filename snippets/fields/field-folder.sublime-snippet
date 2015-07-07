@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[<field
+		name="${1:field}"
+		type="folderlist"
+		default=""
+		label="Select a folder" directory="administrator"
+		filter=""
+		exclude=""
+		stripext="" />]]></content>
+	<tabTrigger>field-folder</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>

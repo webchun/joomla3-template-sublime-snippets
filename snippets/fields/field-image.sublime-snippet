@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[<field
+		name="${1:field}"
+		type="imagelist"
+		default=""
+		label="Select an image"
+		description=""
+		directory=""
+		exclude=""
+		stripext="" />]]></content>
+	<tabTrigger>field-image</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>

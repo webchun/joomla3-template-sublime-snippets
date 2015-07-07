@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[<field
+		name="${1:field}"
+		type="media"
+		directory="stories" />]]></content>
+	<tabTrigger>field-media</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>

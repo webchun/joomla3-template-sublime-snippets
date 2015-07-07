@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[<field
+		name="${1:field}"
+		type="combobox"
+		label="MyEditBox"
+		description="myeditbox_Desc"
+		size="7" />]]></content>
+	<tabTrigger>field-combobox</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>

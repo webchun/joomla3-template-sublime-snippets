@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[<field
+		name="${1:field}"
+		type="language"
+		client="site"
+		default="en-GB"
+		label="Select a language" description="" />]]></content>
+	<tabTrigger>field-lang</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>

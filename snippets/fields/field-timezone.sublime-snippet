@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[<field
+		name="${1:field}"
+		type="timezone"
+		default="-10"
+		label="Select a timezone"
+		description="" />]]></content>
+	<tabTrigger>field-timezone</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>

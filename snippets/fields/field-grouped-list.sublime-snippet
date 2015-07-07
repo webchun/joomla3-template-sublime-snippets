@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[<field
+		name="${1:field}"
+		type="groupedlist"
+		default=""
+		label="Select an option" description="">
+		<group label="Group 1">
+			<option value="0">Option 1</option>
+			<option value="1">Option 2</option>
+		</group>
+		<group label="Group 2">
+			<option value="3">Option 3</option>
+			<option value="4">Option 4</option>
+		</group>
+		<option value="5">Option 5</option>
+		<option value="6">Option 6</option>
+	</field>]]></content>
+	<tabTrigger>field-grouped-list</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>

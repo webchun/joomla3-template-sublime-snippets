@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<field
+		name="${1:field}"
+		type="modulelayout"
+		label="JFIELD_ALT_LAYOUT_LABEL"
+		description="JFIELD_ALT_MODULE_LAYOUT_DESC" />]]></content>
+	<tabTrigger>field-modulelayout</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>
