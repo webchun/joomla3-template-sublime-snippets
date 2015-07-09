@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[<field
+		name="${1:field}"
+		type="range"
+		default="1"
+		label="Choose a number"
+		description=""
+		min="1"
+		max="10"
+		step="1" />]]></content>
+	<tabTrigger>field-range-horz-slider</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>
