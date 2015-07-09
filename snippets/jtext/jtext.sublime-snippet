@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JText::_( '${1:field}' )]]></content>
+	<tabTrigger>jtext</tabTrigger>
+	<scope>text.html</scope>
+	<description>J! Template jdoc</description>
+</snippet>
