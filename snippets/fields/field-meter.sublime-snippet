@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[<field name="${1:field}"
+		active="true"
+		type="meter"
+		label="Meter"
+		max="1000"
+		min="1"
+		step="10"
+		default="240"
+        />]]></content>
+	<tabTrigger>field-meter-progressbar</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+		<field name="${1:field}" type="sql" default="10" label="Select an article" query="SELECT id AS value, title FROM #__content" />]]></content>
+	<tabTrigger>field-sql</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>

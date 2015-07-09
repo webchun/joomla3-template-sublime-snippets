@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[<field name="${1:field}" type="number"
+	label="COM_MODULES_FIELD_NUMBER_LABEL"
+	description="COM_MODULES_FIELD_NUMBER_DESC"
+	default="10" />]]></content>
+	<tabTrigger>field-number</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>
