@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+		\$stylelink = '<!--[if lte IE 6]>' ."\n";
+		\$stylelink .= '<link rel="stylesheet" href="../css/IEonly.css" />' ."\n";
+		\$stylelink .= '<![endif]-->' ."\n";
+		\$doc = JFactory::getDocument();
+		\$doc->addCustomTag(\$stylelink);
+		]]></content>
+	<tabTrigger>add-customtag</tabTrigger>
+	<scope>text.html</scope>
+	<description>Inject J! script and css</description>
+</snippet>

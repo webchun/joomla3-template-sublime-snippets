@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<updateservers>
+        <server type="extension" name="${1:}" priority="1">http://www.your-domain.com/updates/extension_name.xml</server>
+    </updateservers>]]></content>
+	<tabTrigger>field-updateservers</tabTrigger>
+	<scope>text.xml</scope>
+	<description>Joomla xml field</description>
+</snippet>

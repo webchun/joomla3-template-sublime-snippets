@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+		\$doc	= JFactory::getDocument();
+		\$doc->addScript(JURI::base(true).'/modules/mod_name/assets/script.js');]]></content>
+	<tabTrigger>add-script</tabTrigger>
+	<scope>text.html</scope>
+	<description>Inject J! script and css</description>
+</snippet>

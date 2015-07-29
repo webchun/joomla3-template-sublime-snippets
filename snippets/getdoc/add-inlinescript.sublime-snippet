@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+		\$doc	= JFactory::getDocument();
+		\$customscript ='\${1:}';
+		\$doc->addScriptDeclaration( \$customscript );]]></content>
+	<tabTrigger>add-inlinescript</tabTrigger>
+	<scope>text.html</scope>
+	<description>Inject J! script and css</description>
+</snippet>

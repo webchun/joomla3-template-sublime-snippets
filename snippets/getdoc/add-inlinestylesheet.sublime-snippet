@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+		\$doc	= JFactory::getDocument();
+		\$doc->addStyleDeclaration(".style {display:none;}");
+		]]></content>
+	<tabTrigger>add-inlinestylesheet</tabTrigger>
+	<scope>text.html</scope>
+	<description>Inject J! script and css</description>
+</snippet>
